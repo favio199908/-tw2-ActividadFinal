@@ -63,7 +63,7 @@ hr {
     content: "\0056";
 }
 .problem:before {
-    color: #d33d44;
+    color: #f7030b;
     content: "\0057";
 }
 .cake-error {
